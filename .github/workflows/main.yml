@@ -19,7 +19,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
           plugin_languages: yes
-          plugin_languages_ignored: html, css    
+          plugin_languages_ignored: html,css,gcode
+          plugin_languages_sections: recently-used          
           plugin_projects: yes
           plugin_projects_repositories: landaumedia/infrastructure/projects/39
           plugin_projects_limit: 0
