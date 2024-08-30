@@ -20,7 +20,6 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_languages: yes
           plugin_languages_ignored: html,css,g-code,batchfile
-          plugin_languages_sections: recently-used          
           plugin_projects: no
           plugin_projects_repositories: landaumedia/infrastructure/projects/39
           plugin_projects_limit: 0
