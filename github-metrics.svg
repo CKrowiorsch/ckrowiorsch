@@ -341,7 +341,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -349,7 +349,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 25 Dec 2024
+                                        Last played on 30 Dec 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -358,32 +358,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 43 achievements unlocked
+                                            13 / 43 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAID/8QAKBAAAgEEAgEDAwUAAAAAAAAAAQIDBAUREgAhMRMiQQdSoQYUMlGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBv/EACURAAEDAwIGAwAAAAAAAAAAAAECAwQABREhMRJBUWFxgRTB4f/aAAwDAQACEQMRAD8AylnWnghpqeOGOOKNAqCJehqPHXB14+oUlprBRpRw1ciL7z6arr8gZ1OeucrpOtKklQ+2sUKudfOAgPXFL9pZa2408rXmSmkuOZVhNG8rKWJwAR/LJGOvHj45qrw+WG0paxxHXXG3utDcpIj4SOfbOKcrP9QpLtWGjejhpJHX2H01bb5IzqMdcI1U61EE1NURwyRyxuGQxL2NT565PKamstHWtVPd5aie3S7y0yUbocKflm6HeBg8bbXOtUiVCbayws4284KE98VmfL6FIdxxDXTG3qlbZPyMpPLtjNbx0b3JGMrL6WioRrnb2jyOTD9QIttvc0SpGoVw6M8eAFPuGMfAII6/rlToL9LSWMi0rTTVErK6PM49PXUAno5Pj854kXOy3C6XCWrrjRPI56UONUH2gEHA5BdIch90lCCenipJEKUuWtxKSUnb8oDYokul3jp3RWSRi8jRoQCuAxz8gHof7ypSUbW2JTEymPRkC6419pxjiXa7LcbXcIqyiahSRD2pcauPtIAGRx3r79LV2MC7LTQ1ETM7vC49PXUgHs5Hn8Z4WuG+w6CtBHXxRHhSkS0OKSQkb/ea/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQASISJRYQYTMRShUmJxcsHR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAgUG/8QAIxEAAQMDBAMBAQAAAAAAAAAAAQIDBAARIQUTMVESQWFxsf/aAAwDAQACEQMRAD8Al3K41drpII7XTUnsRRINjRA44HA7DRrb6xulVCCsNCFXpO6nBbPb40OsAaQAjIMaAg/tGm/TNPSLfa1WiR1VEKKRkDgc/rq515mUx4OR14WbW6Nr4x8rQTYkhajsrsPXw9fn8NAr/Vl6jpxJFT0LrjrC0wDY8aWt17a8pPT1UFK9PJA+QIgM8fB41p73R0eI9sSbwcbgDlx3OsR6cjjS53MRqAqtIq47YP8AWl9ORPS40X1YXfHvAJzgUKNFltrRvLwTx86OKJV1knvxLuhQFVBeQkAdI0/aDTmWoqYq33JSuNipwhAwOc/BI48ahVSTVfty0bUkkDxDDO456cZH8aNSSXOlaQxJbQHGCu7gck9/P2GnNWamvPjZBKRYjjBta4p2UJO6SyDarVPdoKoqk9XGksgGCnUQfwnng/7paKhS2NUzQ1DStOXOGi27cq3nUaKC4RsrIlvDAg53dtvn8v3PfT8lfWGN3uX0MVOiMxaNuQcEc8/HOhQmtRL7e+D4pJ5t7BBqLIlF1JdBsD1X/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Culinary Researcher</div>
-                                                <div class="unlocked">25 Dec 2024</div>
+                                                <div>Shop's Lookin' Good!</div>
+                                                <div class="unlocked">30 Dec 2024</div>
                                             </div>
-                                            <div class="description">Researched 5 new dishes</div>
+                                            <div class="description">Bought First Interior Item.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwYHAAEF/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDEQQAEiEFE0ExYQZRcZGhByIjMoH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAACBQb/xAAkEQAABAUFAAMAAAAAAAAAAAABAgMEAAUREiEGMUFRYRQi8P/aAAwDAQACEQMRAD8AoOJsxsaPHxYoIYIIlAUIoVFAH2A/GgzfGHTsQlZMhJyt7uxAGqvmTQP+XpR/UZ5UPTgHLQSqU7I4/eAtPfk01V7H56V8dzXNh14OnXLkSmsKEcpJZORdArhU4jXgMc0zFhxuuxdQid8GSF1XbvHZAZN11fFeD6XoOUY8rHmxsqKGWGWNleNoxTCjYPHppO+CO2eqS9uZIripoeAZAb9PlRAOmxFQTP2pBIoVgT5Bo+o0w1WIqSg0A0Zs7l6rNS8lRJ315Cz8ZB8zoMyC98BjnG0WTtFH6cMTftqfwZTSOFwYpsyUpudYkLbT6cn6kc++qajR5kKTQPDNjyxijuBV1K/kEffWRYkccBghjxseMuH/AIUQANVXQrmvIo+mo5ZgqN5RzTaByTUAMU/jrBi7foOcbjHE6TgvirtXZJmOB3JA3ENc8GrUjzwfA0xYTNBNkSd8S92IrW0qd1f2I9B58+ffQUx+0myMgjyzONzfXnWnZMWKWfJlijhjRmd2cUoo8n21dBmRMtxh+0Cm2olXhjIoYTHG2R988/U//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACoQAAEEAQMCBQQDAAAAAAAAAAECAwQRBQASIQYxBxMUQXEiMmGRFSNR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwYBBAX/xAAmEQABAwIFBAMBAAAAAAAAAAABAgQRAyEABRIxQVFhgaEGFCLw/9oADAMBAAIRAxEAPwCsys+Tg8Y3/FQYTsdlDbYYW43GS0mu+9fFfaAnRcXxDyhxnqHcA3udlphREpebUl9wkgnfVbRVbuQT78HWvq2U3CxL8l9MVbLaEFaJLZcSvgAAJo83VXxofF9JTMilvJA46J6gxp7LDG4JBSm0pKQgAWFEmiefnRcxd/VWATYjoPWF/wCNtGrxoV10DUDvKrgEWIBAHWY27mQhI8QsgyJMSRgktZZuSzFTGS62pClOglJ8wChwD8cfmtWIzbubXlsTmsU1FkR0hD7BUh5C0rQSPqSKPHcaMldNOSZr016ayJrklmSAhKvKBaBCQSRfNn29h/vCODx/pstk5jsll6TJoOpZvajajjvzZBuvjR6Br6wFpIF9wNrxPfa2K+ZnKy1qKblOsBOylkhU05CQTBRddzJkC+IDxXyeSVORAYktohLjNuOtL2J3UbsE83wOB+tDsde56LCw7AkERsWSpIbdWhTyd6VbV80QAnaAQQATxqi616Wk9Uyos/GSYamPToCFLdoK7mxQNjnQ+O8PcxHDnqHsc6T9oLpIHe7FaG9bmqohSNQ4/jicnzJm3aIpqqBCo/XBnxzi6a6vxT7MR5mUlSpKNyYu3+4kkcVfFc/PtpHHyJhlPuu7UMrQdjJpRR9PexX65+dc9xHh5Ob6gayOSmx1IbcDwS0uyVA2Bz2GuiOKRFadfkutNstoUpa1LFJFHk/jWk2VWqJKq9ugwrZoWdEikxVrmZPmwFvdz34x/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Scrap Metal Collector</div>
-                                                <div class="unlocked">25 Dec 2024</div>
+                                                <div>Predator of the Blue Hole</div>
+                                                <div class="unlocked">30 Dec 2024</div>
                                             </div>
-                                            <div class="description">Picked up 100 items.</div>
+                                            <div class="description">Caught 300 fish.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+7 others...</div>
+                                            <div class="description ellipsis">+11 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -509,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2024, 02:48:53 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Dec 2024, 02:45:24 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
