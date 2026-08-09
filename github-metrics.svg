@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            326 Issues opened
+                            327 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -492,7 +492,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgQABQf/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMABBESIQUGI2EiMTRRcROhohVBYnOB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECBv/EABoRAAMBAQEBAAAAAAAAAAAAAAECAwAREiH/2gAMAwEAAhEDEQA/AOO7MHhzBAumJRgLkODvqb3JqmJzj09qfmEVnTxW/wDRGftTXlnl63fhX6rxKCe5tOov04M6lKgYJx+xOR22J2rJIA6dyspPV/K4VIxx6e1/yEVMrMXn6EDaomGCmAg89S48iMU85o4DaR8NXifDoZra2b6aiK4J1uWBJYZ3wNh33IoYieOftBIfxoCCOjKSeb+W2kky1v2gjH2ptwrnq9hEyTNbwJI5kBS3LgEgZGNQwNu9efsra4OtA2qJTs+Av8Wz5EVVEjY9Raj5mWhUEfdZWpJiUyri/NVxcPGYZI5wray0kBQEjyG7Ekb9qKxyeKf3MEg/GtIjY2ntT8TrUqqwebrwLpiY5L5D5GNK+5OaAAD5pSr0brb/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Bag of Holding</div>
@@ -502,7 +502,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgAEBQIH/8QAKxAAAQMCBAUEAgMAAAAAAAAAAQIDBBEhBTFBgQASE1GxFSJh8AYlFCNF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECBv/EAB0RAAEEAwEBAAAAAAAAAAAAAAEAESFBAgNREjH/2gAMAwEAAhEDEQA/AM1a2wxHAjtKKm01V01IPtVe+pORItSmRHGkJMEGisHZCuxND4327E1k0H0nCCk0UGyQfm329NxcrpUrEfyPG2I0cR0pUy0tSlx2yU/1gqUVEG18uMErmcMHcAzFP9REyYJNE4OyVdganxvv2ApmoW2WJAMdpJS2qiumpZqpVr6EZAm1K5k8P406ZgOOSGOUFlLLqkKXDbbWohslKhQZVG/BKGD6Ti5VdRbBJ+b/AG1dhcAVc8GYPM1xSYr9ThA16ZHj7rsLBdIQcFmPBf8AFkw5MNuM82ZiG3B7E1pXKhG/Hn7iGixHIkNJ5W08yeopZ9yr20IzIFqUzJ4vtwsOTf1Vivymp87b9gaCE17PJJAmLHGtKeovGZbKI6GI8aNFXGZaElLi6cpzOta7cGYav1OLjXpgefum4seHIOHK/wBVivwm/nbbsRWg2hoMSCZDSuZtXKnqKQfaq1tScwDalciOACmzMkuRM2ONS//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Legendary Merchant</div>
@@ -524,7 +524,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2026, 04:04:33 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Aug 2026, 04:12:26 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
