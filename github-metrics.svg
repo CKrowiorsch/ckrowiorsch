@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1100" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1004" class="">
     <defs>
         <style/>
     </defs>
@@ -31,15 +31,15 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -341,7 +341,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        12 hours played
+                                        18 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -349,7 +349,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Aug 2026
+                                        Last played on 14 Aug 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -358,32 +358,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 54 achievements unlocked
+                                            12 / 54 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcABAUD/8QAKRAAAgEDAwMCBwEAAAAAAAAAAQIDBAURABIhBhMiMTIHFCQ1QVF0s//EABgBAAMBAQAAAAAAAAAAAAAAAAIDBQAB/8QAJBEAAQMDAwQDAAAAAAAAAAAAAQIDEQAEMSFBURITQmEicfH/2gAMAwEAAhEDEQA/AFL9FQWu2k22GrqaqNpnknd+PNkCqFIx7c859dFNk6OuF13xmw2mirO40MNJWPPHNPIsfdZVXdxhdpy2B5LzzoXmq5renTdZSv26ing7sb4B2ss8hBweDyPzprUt2o6ncbT1XdYqCsgd6p2l7Ly1KIDDC80jN2pWAYNINqMECqODipcOKaACAMcVCtGE3BUpxRmT5Hk+6BZ+nK6Ojo5oumaKolqVRxTwioaRVkVnjON2GDKjnxLY2kHB41hfRV9ruRFthpKmljWZJIHfnzVCrBic+7PGPTTXgvVloLGaW6dSXYQUMzNaJPIydnYQyxNEwBkVi0YkctH4kLkbhpUw1c1wTqSsqn7lRUQd2R8AbmaeMk4HA5P41mHS71BQEfVcumE2/QpCjMjyJ3Hv9qvdfttj/jb/AGk0bfBwyXq9QWSS6JTSqyzUMc9J30LxuJfUMpUja2M8YeTGC3IeRQ3C1W0NcoaWopo2hkjnR8HzZgylQc+7HOPTWt0VcIelOqKC9U91tc70rE9p1mAZWUqRnZwcE4P7/emPJ7jfxImNMZil2zvYcIWDkzocSeBU+I8vyV4ksNJcfm6O37YWCU3YQSoNrYGSTg7jk8bncgeRJw7V9tvn8a/7R6uXlYLtd6241F6tizVc7zuqJMFDMxJAynpzriBQ2+1XILcoaqoqY1hjjgR8DzVizFgMe3HGfXRNpDaNTt64oXnC8sBKTkbHEjkV/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcA/8QAMBAAAQQBAgQDBQkAAAAAAAAAAQIDBBEFBhIAEyExFCJRFSRBUmEHIzIzNVWCktL/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBQb/xAAkEQACAQMDAwUAAAAAAAAAAAABAgMAEVEEIUESMWFCcaHR8P/aAAwDAQACEQMRAD8AyT3KBi8aTjWZciS2p5bj619POpASkJI+W+t9+GOocZJ074QZnTWOiuSm+c20p5wubPVSQ5af5Adj6HiCJkfZEzSWSLXO8GhMjl3W/bIWqr+F1xdPtJyuh85kpupYs6bNyM2MlAximlNhl7ZtDinKopSAPKLtQ70TxrPIY2VQu1sXx+3rn4oRMruzG9z6iNrnz8CqeqBLTgkZo6SY9lLUUiUA+UWCAbO/oLIAJ6E2B2PAIMHIYrJFONZiyIzaXm3GFro+dKSlQUTf4r6V24fYfXupIePxbLrj8rC41wsuMqvlvNuD8hywUkbUq22CRZrsKrmL/T870r3QdPT75vg0LN1BwOaCVFi6GiZr3XuTkee1O8BFxc7JaaiZ2SiJBfgvNGQu9rS1LeDajRHQL2nvXr04J1fo7G6ax+AfVqGHMemFXiUwVc/akLI5rZ6AihVEjzA0T1pARByGKxqVZJmLIjNqZcbfQuiN6lBSSkGx5q6124h9nQ/3zH/1e/xxCpZgyttYbbYq45FiVkdDe54OfatqjJ089o7ITZOafe1WmYZkVCUlhbsmx4dxEQDaeYnlm9pverr6ZRkQ0mdqwMqnqTybJnoCZAVz29wcAJ8wNgn4/Ttxz02U+xNaf1XHdTNU2uSXC+pTpbBCNyiiyBfa66D0HAz70ZiDlnXssifOmpDYDaXCSS4lalrUsD5fqSTwqGEw9TM2eRim6nUDUBURTe68HP1X/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Dweller of Woe</div>
-                                                <div class="unlocked">13 Aug 2026</div>
+                                                <div>Solstice Power</div>
+                                                <div class="unlocked">14 Aug 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgAIBAUH/8QAKBAAAQQBAwEJAQEAAAAAAAAAAQIDBAURAAYhMQcSEyIyNVF0sxSh/8QAGQEAAQUAAAAAAAAAAAAAAAAAAwABAgUG/8QAIhEAAgEEAQQDAAAAAAAAAAAAAQIDABExUQQSIUFhE0Jx/9oADAMBAAIRAxEAPwDkhMGvqq0qrWZUiS2p5xx9a8DzqSEpCSMenPOeuk2xto2W9FrNRtusTFbV3HJT7jyW0KxnGe+ST06A4yM4zona+20f01fs5pBE3zuBW16fbFK7JiGM+4UKgrUlyQVqylJxzkEq6HByOOM6uJetVAiA8Z/KzsCpIzNMzZOCdntmtxvfYVvs+J/ZP27UyIIwFyYrry0IJJACgVgjp1xjkc50NBg2FVZFNazFkRm0vNuMLXg+dKSlQUTn1Z4x01Y3cd0/tXsXELeszxb6bCdioQFBbjilAhOfnupKe8r5HUkjNbKn227+mn9m9B4srTo3WB2v3AzReZAvGZGjZsrknY91LX22j+mr9nNOOxektkbrq7eKIrCil5cITlFDcwo7qXUJI5BCVqIUAeUng4OBpEGwqq0KsmYsiM2plxt9C+fOpQUkpBz6sc46aU7a3a9R0xqXJ+3LatDnjNR7KM88lhXOSjyjGcn/AH5OSzhnjtHY3GxqocV1ikIlBFifqdn1WZ22VV3I3RPtJ7jEoMNtf0piOFxqAFlQbbJPPISFE4AyvoMjISq9tvPpp/ZvS/cu7XrymFS3P25U1pc8Z2PWxnmUvq4wV+U5xgf58DBYCDX1VkE2TMqRJbSy22whfHnSoqUVAY9OOM9dNxw0cdnsLDY1S5TrNIPiBNyPB2NjVf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGCP/EACcQAAICAgEEAQQDAQAAAAAAAAECAwQFEQYSEyExAAcVMmEUIkFR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIFA//EACURAAIBBAEDBAMAAAAAAAAAAAECAwAEEUEhEjFRExQyQmFx8P/aAAwDAQACEQMRAD8AMMRQrTHAUIcfWsXsowHetSOFUtKY1ACEaA6dk+ffy9iuIXbc/Io7fH8fS+w13ntiRpiwYKzIijueerp8H1rz/wABl8fwkXI8vxTEz30x6WqzoLDjYVu7KVGtjZJAA8+z8euBDHceyEsl7JZCazNMaHeswuz3ZO4sRkdwzhlDoETfT0B9H8wTQurj0AFQDsNf35qLZ2vuep5Cfk32Pk6zrig3luDPG6eFuWMNjJaeWqJagkVpgQSqlkI7ngqWHn0QR+wIINHIYrJFcbDVsVo1mjkgd9H+6qVYMTv8t+NevnRH1Xx+B5zDTgW3kEt0rZph4K+44WeVImaQP09S9Y6QVPkhtb6W0G8gwkPG8tyvEV78eQSrWRDYRQoZu5EWGgTogkg+fY+NbXAnTpYc4OqW8tTbMHQnGV+x2RrP7qpwjhw5s9PGpZ/j2Y8PJYgc/iXFlhpv90Qx9evfnWvm+zfDrvDKkkOQ5RZrcYs34TJZE/XMkcagxqsfR1BwyKvWjegCV0PA/RuRirirFHN/a8jSjeEk9xGG3ZgysgPghyCPHr9/EDG/VrPVQGt5jjmRsL1BLFqpN3EVtbQFEUa2oPr4lxHLIQ0ZBGBxxWlpNFCrJKGDZbTY7nwK0GE4dd5nUjhx/KLNnjFa/MY7Jn6JnjkUmRWj6OouWdl63b0SQuj5wPN+HDhL3Ma9n+RZkw8didx+Ic2VGl/3QCj379+N6+Xsl9Ws9aBapmOOY6w3SHsVak3cdV3pCXRhrbE+vh/euRmrlbF7N/dMjdjSEEdx2OnVizM4HgBAAPPv9fC3jljJZyAMHjii7mimVUiDFsrpsdx5Ff/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Who would have thought?</div>
-                                                <div class="unlocked">13 Aug 2026</div>
+                                                <div>Yo, Ho!</div>
+                                                <div class="unlocked">14 Aug 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+7 others...</div>
+                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -423,32 +423,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            43 / 175 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAgME/8QALxAAAQMDBAAEBAYDAAAAAAAAAQIDBAUGEQAHEiETFDFBFSJRkSMkMjNSYnGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDIRIxMkHh/9oADAMBAAIRAxEAPwCa7x3JcSdzLmgt1urCCJzjDMRmSvCh18iUg4A7/wB611CfuZalrQalUqpcNNpri/BitF9aQVccjOVcsYyexg4wNF6ZcKzvrW5zcpDR8zJCVFPJZQEEL8MYP4vQUk/UHV2+FwG6RGpb0pLsxclmWJMh/wASRIkNqCkuZWSTnGMDoBRGMawvmXGFBHqXXGXvcjFGoO4NxUNU+7brqVFtR9ID6qrJcCnAo4whsHkoEnrOAc++sKQ7Wbe3ftOlJuGsSLckuRnG40t9SVtsqT+080OkkYI449ANBtwt5bgrVZkwmkfCvBcWylalhx5lYJSeKsYQesEpAP8AbSxYT8ld9W+mQ645IcmAPqWoqUVjtOSfcZ7OmVJQswA11CPIAGNUqzYa9wK+zHqj8GaxNcdZQygFzHRV4aioZVkkY9tUGrBpm2YzrFLqaHfKoZeeTLbYnFtIwlDjnHPQ6wCPp3qV7p27XpO61VaapFQcVUJzzsEstErc44KlN/yAA7/5pxoRuug23FauWFUkNlakBfl3FrSjA48gEkjvPrjrWfKG4qwN9alsdciKiLTE2bLqDbbdr11x1TqWwFzM5UVY9AnvHZP+NMrVDpdA3atVuItSYrb35t2Q6DlzKkhZPoM4H2zrng2/Imu1eq2lEmF4tqaZKYriQ26SnmUkj9WPtnQqy9tLiql5UaJWrZrKKM/MR5t11haeSSfmUtft9+tVtTdtQro/YKK1qf/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Tempered in Blood and Fire</div>
-                                                <div class="unlocked">2 Aug 2026</div>
-                                            </div>
-                                            <div class="description">Upgrade equipment 35 times</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgECBAUHCP/EAC4QAAEDAwQBAQcEAwAAAAAAAAECAwQFBhEAByExEmETFBYiMkGRI0JxgYKhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAP/EAB4RAAICAgIDAAAAAAAAAAAAAAECABEDEkFRITHB/9oADAMBAAIRAxEAPwDNN5LluFvcq54Sa5VU09M1xhqK1JWARx8iRnAHOh2Jf91wKelDN1Vdppj5W2GZLngDjgFRPIHZHWn7lVN2p33czkd0+1XOcS1hWCQDhX98D/eqq0KX8T3TCoy6kqKyoLHtuVFRCSTgZ7OMD01FQoxhiOIzZbWdJi22PgKRU71va81wfdPaymXZIZQ6VD6W0KysgkgAK7yNY5tVdFcc3GtmG7Xaoui+/NsKivSFeKGxnCFJzjGB9hjjVnvNe0Gp0yn29Tn5rDjAQiUyvhttbaSlOSefIHOfsQQewNB23zjwvW3WXFrLipaUu5OSFD6R/IzqKLeJmYdxnw4UGLuLSjSb1uFqE2rzRMWprGVFOeV8+hOPzqXttBapgqd0S2smAz5RGSCnyeJ6A9Ov8tTd07dr0ndWrMt0ioOqqE152EWmiVu+OCpTY/cAO9JXrfr0OyKfSnLdqzBK1uSHfdVpSFgnwzx0ez1jjSLbY1W/dX9mApyepnjgmTZcmoSULW6twuKJQT5rJzj/AL+NGe2CPC/7afnkNJTKCpC3flAKhhJJP34GdVMC067UYpVSqHUH2GVFsvBlSv1MAnCQO+u/TRLZO2dwVO8aLDrNsVhuiPS0CU46wtHkgnlSlDr88apkZNCpPEChrBqf/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Regrowth!</div>
-                                                <div class="unlocked">30 Jul 2026</div>
-                                            </div>
-                                            <div class="description">Escape the Ashen Realm with Uma</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+41 others...</div>
+                                            0 / 212 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -524,7 +499,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2026, 04:29:07 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2026, 03:39:30 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
